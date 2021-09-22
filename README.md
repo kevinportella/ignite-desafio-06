@@ -25,8 +25,8 @@ This project was developed with the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/kevinportella/ignite-desafio-05
-$ cd ignite-desafio-05
+$ git clone https://github.com/kevinportella/ignite-desafio-06
+$ cd ignite-desafio-06
 ```
 
 To start it, follow the steps below: 
